@@ -53,3 +53,6 @@ The processor implements the following subset of the RV32I instruction set:
 
 - **Textbook**: "Digital Design and Computer Architecture" by Harris and Harris for a good starting point.
 
+## IMPORTANT NOTE
+- This work has done by me and my teamates in the ITI Summer Camp Digital IC (Nour Hussien {https://github.com/nourhussin}) (Mariam)
+
